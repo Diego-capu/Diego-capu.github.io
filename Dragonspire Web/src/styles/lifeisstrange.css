@@ -165,7 +165,7 @@ header {
 
 
 .videos {
-    background: rgba(0, 0, 0, 0.6);
+    background: black;
     padding: 20px;
     text-align: center;
     height: 850px;
@@ -225,7 +225,7 @@ footer{
 }
 
 .final-page h4{
-    color: rgb(255, 255, 255);
+    color: white;
     
 }
 .nav-center {
