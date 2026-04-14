@@ -1,16 +1,10 @@
-@font-face {
-    font-family: 'life';
-    src: url('fuentes/Dune_Rise.otf') format('otf'),
-         url('fuentes/Dune_Rise.ttf') format('truetype');
-    
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Montserrat&display=swap');
 
 
 body{
     background-color: black;
-    font-family: 'life', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+   
 }
 
 header {
