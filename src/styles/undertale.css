@@ -97,7 +97,7 @@ h2 {
 .buscador {
     height: 560px;
     width: 1300px;
-    background-image: url("imagenes/fonfounde.png");
+    background-image: url("../img/fonfounde.png");
     background-size: cover;
     background-position: center;
     border-radius: 10px;
