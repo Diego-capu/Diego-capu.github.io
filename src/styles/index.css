@@ -23,7 +23,7 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 800px;
+    height: 1000px;
     max-width: 1400px;
     text-align: center;
     justify-content: center;
@@ -61,6 +61,9 @@ nav a {
     text-decoration: none;
     
    
+}
+nav li:hover{
+    transform: scale(1.18);
 }
 ul {
     display: flex;

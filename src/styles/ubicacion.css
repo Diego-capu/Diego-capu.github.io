@@ -24,32 +24,32 @@ body {
     font-size: 1.8em;
     font-weight: bold;
     color: #fff;
-    text-align: center;
     flex: 1;
 }
 
 .nav-right {
     position: absolute;
-    right: 30px;
+    right: 100px;
 }
 
 .nav-right a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
-    background: #c00000;
+    background: #000000;
     padding: 8px 14px;
     border-radius: 6px;
-    transition: background 0.3s ease;
+    
 }
 
 .nav-right a:hover {
-    background: #900000;
+    background: #ffffff;
+    color: #000000;
 }
 
 #ubicacion {
-    min-height: 100vh;
-    background: url('../img/dragon7.jpg') no-repeat center center;
+    height: 1000px;
+    background-image: url(../img/escenario-de-the-last-of-us_1280x720_xtrafondos.com.jpg);
     background-size: contain;
     background-position: center;
     display: flex;

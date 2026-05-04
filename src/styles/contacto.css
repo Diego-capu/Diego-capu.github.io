@@ -24,32 +24,31 @@ body {
     font-size: 1.8em;
     font-weight: bold;
     color: #fff;
-    text-align: center;
     flex: 1;
 }
 
 .nav-right {
     position: absolute;
-    right: 30px;
+    right: 100px;
 }
 
 .nav-right a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
-    background: #c00000;
+    background: #000000;
     padding: 8px 14px;
     border-radius: 6px;
-    transition: background 0.3s ease;
 }
 
 .nav-right a:hover {
-    background: #900000;
+    background: #ffffff;
+    color: #000000;
 }
 
 #contacto {
-    min-height: 100vh;
-    background: url('../img/contacto.jpg') no-repeat center center;
+    height: 1000px;
+    background-image: url(../img/escenario-de-the-last-of-us_1280x720_xtrafondos.com.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -73,7 +72,7 @@ body {
     max-width: 600px;
     color: #fff;
     background: rgba(0,0,0,0.6);
-    padding: 20px;
+    padding: 50px;
     border-radius: 10px;
 }
 
@@ -100,7 +99,7 @@ form input, form textarea {
 
 form button {
     padding: 12px 20px;
-    background: #c00000;
+    background: #000000;
     color: #fff;
     border: none;
     border-radius: 6px;
@@ -111,7 +110,8 @@ form button {
 }
 
 form button:hover {
-    background: #900000;
+    background: #ffffff;
+    color: #000000;
 }
 
 .footer-contacto {
